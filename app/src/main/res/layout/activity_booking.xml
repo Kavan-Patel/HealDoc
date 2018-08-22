@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Booking"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="select date"
+        android:id="@+id/txtdate"
+        android:textSize="50dp"/>
+
+    <ImageButton
+        android:id="@+id/imgPicker"
+        android:layout_width="67dp"
+        android:layout_height="69dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/txtdate"
+        android:background="#aaffffff"
+        android:src="@drawable/ic_date_range_black_24dp" />
+
+    <TextView
+        android:id="@+id/txttime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtdate"
+        android:text="select time"
+        android:textSize="50dp" />
+
+    <ImageButton
+        android:id="@+id/imgTimePicker"
+        android:layout_width="67dp"
+        android:layout_height="69dp"
+        android:layout_below="@+id/txtdate"
+        android:layout_toEndOf="@+id/txtdate"
+        android:background="#aaffffff"
+        android:src="@drawable/ic_watch_later_black_24dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="299dp"
+        android:layout_height="178dp"
+        android:layout_below="@+id/txttime"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="TextView"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/textViewDD"
+        android:layout_width="132dp"
+        android:layout_height="43dp"
+        android:layout_alignParentStart="true"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_alignTop="@+id/textViewYYYY"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewMM"
+        android:layout_width="120dp"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_height="47dp"
+        android:layout_alignTop="@+id/textViewDD"
+        android:layout_centerHorizontal="true"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewYYYY"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_width="132dp"
+        android:layout_height="47dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="122dp"
+        android:layout_marginEnd="0dp"
+        android:text="TextView" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="44dp"
+        android:background="#1f6d27"
+        android:textColor="#aaffffff"
+        android:id="@+id/btnBackhome"
+        android:gravity="center"
+        android:text="Back To Home"
+        android:textSize="40dp" />
+
+</RelativeLayout>

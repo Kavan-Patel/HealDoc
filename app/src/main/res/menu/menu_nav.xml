@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        app:showAsAction="always|withText"
+        android:id="@+id/navigationHome"
+        />
+    <item
+        android:title="Doctor"
+        android:icon="@drawable/dnew"
+        app:showAsAction="always|withText"
+        android:id="@+id/navigationDoctor"
+        />
+    <item
+        android:title="Medicine"
+        android:icon="@drawable/mnew"
+        app:showAsAction="always|withText"
+        android:id="@+id/navigationMedicine"
+        />
+    <item
+        android:title="Hospital"
+        android:icon="@drawable/hnew"
+        app:showAsAction="always|withText"
+        android:id="@+id/navigationHospital"
+        />
+    <item
+        android:title="Remedy"
+        android:icon="@drawable/rnew"
+        app:showAsAction="always|withText"
+        android:id="@+id/navigationRemedy"
+        />
+
+</menu>

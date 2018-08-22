@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.kavanpatel.healdoc.Sign_In">
+
+
+    <ImageView
+        android:layout_width="225dp"
+        android:layout_height="139dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:src="@drawable/finallogoicon" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="95dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="HealDoc"
+        android:textAlignment="center"
+        android:textColor="#ea16740b"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edt_UserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="175dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:hint="Email" />
+
+    <EditText
+        android:id="@+id/edt_Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_UserName"
+        android:inputType="textPassword"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:hint="Password" />
+
+    <Button
+        android:id="@+id/btn_LogIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="134dp"
+        android:textSize="20dp"
+        android:layout_weight="1"
+        android:background="#1f6d27"
+        android:text="LogIn"
+        android:textColor="#f7ffffff" />
+
+    <TextView
+        android:id="@+id/txt_signin_gotosignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="90dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="No account yet? Create one"
+        android:textColor="#f7024fde" />
+
+
+</RelativeLayout>

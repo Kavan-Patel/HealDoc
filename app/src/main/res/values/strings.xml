@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HealDoc</string>
+    <string name="title_activity_main_nevigation_drawer">MainNevigationDrawerActivity</string>
+
+    <string-array name="doctor_type">
+        <item>Heart Specialist</item>
+        <item>Surgeon</item>
+        <item>Eye Specialist</item>
+        <item>Cardiologiest</item>
+        <item>MBBS</item>
+        <item>Family Doctor</item>
+        <item>xyz</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

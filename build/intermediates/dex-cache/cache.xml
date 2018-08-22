@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f66957defd55eadfb057ed2a1f21c268/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6f2d22b19b6758daf095f88cdd000478/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/61bc2c87fdc52a792fd8f33862886ee0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/e8403f352a8ce0fece00bb3d8f41ac30/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/68814d64a6062e767ec8bca4e629bb33/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/9cc21a95d2c3220d17ca29f1edfa67b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c3d83483e41c27d2be14877681456c7c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/61b3a649ea6cdd1fdf94841dba81d17d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ba8664c6e2485caba0a3b0636d34db2b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2f604a11f8130731a519de3ae3b1c72b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/2fde8b078034368bc044f227d99b273c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/791244a6a5dc3b71cd31936ee7063053/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/074e17440cc565eb5aaaac33c9ed80a6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/5ef5753ffe19144177a27a73d3bcea1f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26b24f1df2d41c7718514e25b6ee6a6a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kavanpatel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c951a9854301aae397de68a5c369e166/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/kavanpatel/AndroidStudioProjects/HealDoc4/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="10">
+        <ImageView
+            android:id="@+id/imgDiscout"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/off"
+            android:layout_weight="3"/>
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:layout_weight="8"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="10">
+            <TextView
+                android:textColor="#000000"
+                android:gravity="center|left"
+                android:textSize="30dp"
+                android:id="@+id/txtStoreName"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="8"
+                android:text="Store Name"/>
+            <TextView
+                android:textColor="#9e16740b"
+                android:id="@+id/txtStoreWeb"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:text="Click here to buy>>"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
