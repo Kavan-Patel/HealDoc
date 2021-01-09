@@ -5,15 +5,15 @@ Screenshots:
   <tr>
     <td>
       <br>1. Splash Screen<br>
-          ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/1.png| width=100)<br>
+          ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/1.png | width=100)<br>
     </td>
     <td>
       2. Login Screen<br>
-      ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/2.png| width=100)<br>
+      ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/2.png | width=100)<br>
     </td>
     <td>
       3. Signup Page<br>
-      ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/3.png| width=100)<br>
+      ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/3.png | width=100)<br>
     </td>
   </tr>
  </table>
