@@ -1,12 +1,23 @@
 # HealDoc
 This project is android application which have similer layout of medical application. 
 Screenshots:
-<br>1. Splash Screen<br>
-![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/1.png)<br>
-2. Login Screen<br>
-![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/2.png)<br>
-3. Signup Page<br>
-![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/3.png)<br>
+<table>
+  <tr>
+    <td>
+      <br>1. Splash Screen<br>
+          ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/1.png)<br>
+    </td>
+    <td>
+      2. Login Screen<br>
+      ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/2.png)<br>
+    </td>
+    <td>
+      3. Signup Page<br>
+      ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/3.png)<br>
+    </td>
+  </tr>
+ </table>
+
 4. Home Page<br>
 ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/4.png)<br>
 5. List of Doctor Page<br>
