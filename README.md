@@ -5,7 +5,8 @@ Screenshots:
   <tr>
     <td>
       <br>1. Splash Screen<br>
-          ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/1.png | width=100)<br>
+        <img src="https://github.com/Kavan-Patel/HealDoc/blob/master/1.png" />
+<!--           ![alt text](https://github.com/Kavan-Patel/HealDoc/blob/master/1.png | width=100)<br> -->
     </td>
     <td>
       2. Login Screen<br>
